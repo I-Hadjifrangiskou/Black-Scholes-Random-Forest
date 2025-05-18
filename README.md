@@ -6,3 +6,5 @@ This project uses a Random Forest (RF) machine learning algorithm to approximate
 - Random Forest Regressors are trained for call and put options
 - Evalutes the Normalised Mean Squared Error (NMSE)
 - Visualizes predictions vs. true prices.
+
+The repository includes a plot of the visualised predictions for a test run.
