@@ -4,7 +4,7 @@ This project uses a Random Forest (RF) machine learning algorithm to approximate
 
 - Synthetic option prices are generated using the Black-Scholes model
 - Random Forest Regressors are trained for call and put options
-- Evalutes the Normalised Mean Squared Error (NMSE)
-- Visualizes predictions vs. true prices.
+- Evaluates the Normalised Mean Squared Error (NMSE)
+- Visualizes predictions vs. true prices
 
 The repository includes a plot of the visualised predictions for a test run.
