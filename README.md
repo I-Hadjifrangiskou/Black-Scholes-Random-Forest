@@ -77,7 +77,7 @@ These allow visual inspection of model fit and bias.
 
 ## Author
 
-[Ioannis Hadjifrangiskou]  
+Ioannis Hadjifrangiskou
 Quantitative Finance & Machine Learning | Python Modeling | [LinkedIn](https://www.linkedin.com/in/ioannis-hadjifrangiskou-b32302340/)
 
 ---
