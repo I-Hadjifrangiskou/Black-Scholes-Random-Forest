@@ -9,10 +9,10 @@ This project uses a Random Forest (RF) machine learning algorithm to approximate
 
 ## Key Features
 
-- 🧪 **Synthetic Option Pricing**: Generates European option prices using the Black-Scholes model.
-- 🌲 **Random Forest Regression**: Trains separate RF models to predict call and put prices from input features.
-- 📉 **Performance Evaluation**: Computes **Normalized Mean Squared Error (NMSE)** for both call and put predictions.
-- 📊 **Visualizations**: Produces scatter plots of actual vs. predicted prices to assess model performance visually.
+-  **Synthetic Option Pricing**: Generates European option prices using the Black-Scholes model.
+-  **Random Forest Regression**: Trains separate RF models to predict call and put prices from input features.
+-  **Performance Evaluation**: Computes **Normalized Mean Squared Error (NMSE)** for both call and put predictions.
+-  **Visualizations**: Produces scatter plots of actual vs. predicted prices to assess model performance visually.
 
 ---
 
@@ -58,7 +58,7 @@ pip install numpy pandas scipy scikit-learn matplotlib
 
 ## Example Output
 
-📈 **Prediction Visualization**  
+ **Prediction Visualization**  
 Scatter plots are generated comparing true vs. predicted prices for:
 - Call options
 - Put options
@@ -77,8 +77,8 @@ These allow visual inspection of model fit and bias.
 
 ## Author
 
-[Your Name]  
-Quantitative Finance & Machine Learning | Python Modeling | [LinkedIn or GitHub link]
+[Ioannis Hadjifrangiskou]  
+Quantitative Finance & Machine Learning | Python Modeling | [LinkedIn](https://www.linkedin.com/in/ioannis-hadjifrangiskou-b32302340/)
 
 ---
 
